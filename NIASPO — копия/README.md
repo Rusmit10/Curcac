@@ -63,4 +63,5 @@ docker swarm leave --force
 - `GET /auth/verify` - Проверка токена
 - `POST /users/` - Создать пользователя
 - `GET /users/` - Список пользователей
-- `GET /users/{id}` - Информация о пользователе
+- `GET /users/{id}` - Информация о пользователе  
+
